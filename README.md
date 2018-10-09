@@ -8,8 +8,8 @@ ng new ng05
 #npm install --save bootstrap
 #npm install --save-dev fs-extra concat
 #npm run build:element
-npm install --save-dev electron
 ng serve --open
+npm install --save-dev electron
 
 1. Init Repo (VSCode)
 
